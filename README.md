@@ -12,11 +12,11 @@
 
 # Minhas Paixões | My Passions
 
-- Rock'N Roll <img src="https://img.icons8.com/cute-clipart/64/000000/rock-music.png" height="40"/>
-- Back End Programming <img src="https://img.icons8.com/bubbles/50/000000/laptop.png" height="40"/>
-- Reading <img src="https://img.icons8.com/cute-clipart/64/000000/book.png" height="40"/>
-- Cartoons <img src="https://img.icons8.com/fluent/48/000000/retro-tv.png" height="40"/>
-- Coffee <img src="https://user-images.githubusercontent.com/39075126/109396665-6d4b7a00-7911-11eb-9a3c-d43993229211.png" height="40"/>
+- Rock'N Roll :guitar:
+- Back End Programming :computer:
+- Reading :books:
+- Cartoons, Animes e Series :tv:
+- Coffee :coffee:
 
 
 -------
