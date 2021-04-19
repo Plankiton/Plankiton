@@ -6,10 +6,9 @@
 
 <img src="https://user-images.githubusercontent.com/39075126/109394996-c6fb7680-7908-11eb-968a-38021aca8118.png" width="48%" align="right"/>
 
-<div  style="width:48%; display:flex; flex-direction:column">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=plankiton&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plankiton&layout=compact&langs_count=8&theme=onedark"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=plankiton&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&show_icons=true" width="50%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plankiton&layout=compact&langs_count=8&theme=onedark" width="50%"/>
+
 Olá, sou Yak's Souza e um desenvolvedor sem certificado, já que aprendi tudo o que sei pela internet à fora, sou um curioso, um sonhador que sonha alto demais e acaba caindo vez ou outra, amo o que eu faço e amo ainda mais fazer as coisas do meu jeito, gosto de liberdade quando trabalho, seja no back ou no front ( apesar de eu preferir back ), mesmo tendo alguns problemas de atenção e com uma péssima memória, eu aprendo rápido e consigo me virar sabendo pouco sobre algo ( me basta acesso a internet ).
 
 >  Hello, I'm Yak's Souza and a developer without cetificate, becouse I learned all I know on the internet outside, I'm a curious, a dreamer who dreams too high  and ends up falling over and over, I love what I do and I love doing things my way even more, I like freedom when I work, whether on the back or in the front (although I prefer back), even though I have some attention problems and a bad memory, I learn fast and I manage to get by knowing little about something (I just need internet access).
