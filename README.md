@@ -6,12 +6,12 @@
 
 </div>
 
-<img height="200em" style="margin: 5px" src="https://github-readme-stats.vercel.app/api?username=plankiton&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&show_icons=true" width="48%" align="left"/>
+<img height="200em" style="margin: 5px" src="https://github-readme-stats.vercel.app/api?username=plankiton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show_icons=true" width="48%" align="left"/>
 
 
 Hello, I'm Yak's Souza and a developer without a certificate, cause I learned all what I know on internet, I'm curious, I love what I do and I love more to do the things by my way, I like freedom when I'm working, either in the back or in the front (althought I perfer back), even having some attentions problems and a bad memory, I learn fast and I can get by knowing little about something (I just need internet access).
 
- <img height="300em"  style="margin: 5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plankiton&layout=compact&langs_count=8&theme=onedark" width="48%" align="right"/>
+ <img height="300em"  style="margin: 5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plankiton&layout=compact&langs_count=8&theme=dracula" width="48%" align="right"/>
 
 
 # My Passions
